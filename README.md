@@ -1,2 +1,4 @@
-# book-sample
-书籍导入案例
+---
+title:book-sample
+---
+这里是自序
