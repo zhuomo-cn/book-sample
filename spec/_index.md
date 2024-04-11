@@ -1,7 +1,6 @@
 ---
 title: Specs
 order: 1
-introduction: Source Code Organization and Your Development Workflow
 ---
 
 You've made a Hello World function in your favorite language, and you've run it on your Fission deployment.
