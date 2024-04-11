@@ -1,7 +1,6 @@
 ---
 title: Node.js Functions
 order: 3
-introduction: Writing Node.js functions with fission
 ---
 
 Fission supports functions written in Nodejs.

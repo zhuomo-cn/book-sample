@@ -1,7 +1,6 @@
 ---
 title: Python3 Functions
 order: 1
-introduction: Writing Python functions with fission
 ---
 
 Fission supports functions written in Python3.7+.

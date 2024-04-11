@@ -1,7 +1,6 @@
 ---
 title: Java Functions
 order: 10
-introduction: Writing Java functions with fission
 ---
 
 Fission supports functions written in Java and runs then on JVM.
